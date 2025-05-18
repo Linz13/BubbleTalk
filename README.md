@@ -1,4 +1,3 @@
-# BubbleTalk
 # BubbleTalk: A Child-Friendly Conversational Speech Large Model
 
 > CSC5051: Natural Language Processing  
@@ -59,9 +58,6 @@ A user study with 12 children (ages 4–8) and their caregivers showed:
 - **Lin Zhiyu**: 224040288@link.cuhk.edu.cn  
 - **Yang Jingwen**: 224040204@link.cuhk.edu.cn
 
-## 🔗 Links
-
-- [Project Demo (internal CUHK-SZ link)](https://bb.cuhk.edu.cn/webapps/blackboard/execute/launcher?type=Course&id=_14514_1&url=)
 
 ## 🎬 Demo
 
