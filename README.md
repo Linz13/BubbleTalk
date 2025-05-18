@@ -21,7 +21,7 @@ BubbleTalk integrates several cutting-edge components:
   Seamless combination of:
   - Speech Recognition (ASR): [Whisper](https://github.com/openai/whisper)
   - Large Language Model: [Langchain](https://github.com/hwchase17/langchain)
-  - Speech Synthesis (TTS): [CozyVoice](#)
+  - Speech Synthesis (TTS): [CozyVoice](https://github.com/FunAudioLLM/CosyVoice)
 
 - **Prompt Engineering for Children**  
   Specially designed prompts tailored to children's comprehension and interaction needs.
